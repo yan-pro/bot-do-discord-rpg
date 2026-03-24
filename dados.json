@@ -1,0 +1,172 @@
+{
+    "imperios": {
+        "878470002859204650": {
+            "nome": "segundo_imperio_de_karma",
+            "pib": 35000000,
+            "minerios": 5010,
+            "populacao_total": 1000000,
+            "recrutas": 0,
+            "brasao": "https://media.discordapp.net/attachments/1440145019418841221/1483631246960496931/BCO.2e04d101-95a3-49f2-a323-8e75731d5192.png?ex=69bb4ac5&is=69b9f945&hm=d886fd6ba97e52ae092cff5ad5b6858bebe7f394db48dfc6e715f67669926930&=&format=webp&quality=lossless&width=640&height=960",
+            "descricao": "",
+            "cor": "6B21A8",
+            "fabricas": {
+                "fabrica_pequena": 0,
+                "fabrica_media": 0,
+                "fabrica_grande": 0,
+                "fabrica_continental": 0,
+                "mundo_forja": 0
+            },
+            "projetos": {},
+            "planetas": [
+                "moskou1"
+            ],
+            "sistemas": [],
+            "historico": [
+                "[20/03 14:46] 💔 Aliança dissolvida com siKU",
+                "[20/03 14:45] 🤝 Aliança formada com siKU: Aliança siKU & segundo_imperio_de_karma",
+                "[20/03 13:25] 🚨 Tentativa de espionagem detectada de siKU"
+            ],
+            "tecnologias": {
+                "militar": 0,
+                "industrial": 0,
+                "economico": 0,
+                "espacial": 0,
+                "espionagem": 0
+            },
+            "planetas_data": {
+                "moskou1": {
+                    "nivel": "capital",
+                    "tipo": "comercial",
+                    "recurso": null
+                }
+            },
+            "historico_guerras": [],
+            "aliancas": [],
+            "vassalos": [],
+            "cacas": 0,
+            "destroyers": 0,
+            "tanques": 0,
+            "fragatas": 0,
+            "cruzadores": 0,
+            "interceptores": 0,
+            "bombardeiros": 0,
+            "corvetas": 0
+        },
+        "1439730478948286626": {
+            "nome": "siKU",
+            "pib": 28800000,
+            "minerios": 5111,
+            "populacao_total": 1000000,
+            "recrutas": 0,
+            "brasao": "https://cdn.discordapp.com/attachments/1205131483078197301/1483942827812454410/vector-brazil-flag-waving-realistic-flowing-flags_378399-102.avif?ex=69bc6cf4&is=69bb1b74&hm=df9eff77ccd8d8bbca1144f8518de28dc2e9abcc9b6a11e3dc34b3b324ded793",
+            "descricao": "",
+            "cor": "6B21A8",
+            "fabricas": {
+                "fabrica_pequena": 1,
+                "fabrica_media": 1,
+                "fabrica_grande": 1,
+                "fabrica_continental": 0,
+                "mundo_forja": 0
+            },
+            "projetos": {
+                "MeuCaceta": {
+                    "descricao": "Um caça de",
+                    "custo_minerios": 7000,
+                    "custo_pib": 70000,
+                    "foto": "https://www.google.com/search?client=ms-android-motorola-rvo3&hs=TEtU&sca_esv=4383f7dd9720c753&sxsrf=ANbL-n4sUpJ-G7IqdCtTcp45AWGBeFf5Ag:1774021208366&udm=2&fbs=ADc_l-acAb_3MMOAUx0zmbUpgBqRiigBgL2I_pgQa-94zvB054Dys3s2x_Qm_GJcU2DlSXgs4i471_5vbbrE24Q_ZqrCyhilsPNhxfAu1wD3b9jpYfNAyTiqGpQ9M2EThp4zdpxBKrKes47Iw6Lwb-6usTr-LOA8RBy427F8KAa4CS2tsg4eHRABqttzLDqannysYP5bFAiMBEFmdQzVbkcaPLd1JUNbDAj2H1VHELhP3k2Zp_NtH6I&q=ca%C3%A7a+de+batalha+futurista&sa=X&sqi=2&ved=2ahUKEwjAjMv_566TAxXTJrkGHZPDCfoQtKgLegQIExAB&biw=411&bih=827&dpr=1.75#sv=CAMSURoyKhBlLVJOYTNRX1ljN1Azb2RNMg5STmEzUV9ZYzdQM29kTToObkJiMVFYZkZCVE1hb00gBCoXCgFzEhBlLVJOYTNRX1ljN1Azb2RNGAEwARgHIKLXop4HMAFKCBACGAEgAigB"
+                }
+            },
+            "planetas": [
+                "MEUkACET"
+            ],
+            "sistemas": [],
+            "historico": [
+                "[20/03 14:46] 💔 Aliança dissolvida com segundo_imperio_de_karma",
+                "[20/03 14:45] 🤝 Aliança formada com segundo_imperio_de_karma: Aliança siKU & segundo_imperio_de_karma",
+                "[20/03 13:28] Recebeu fábrica: Media",
+                "[20/03 13:28] Recebeu fábrica: Grande",
+                "[20/03 13:27] Recebeu fábrica: Pequena",
+                "[20/03 13:25] 🕵️ Tentou espionar segundo_imperio_de_karma — Sucesso",
+                "[20/03 13:20] Minerou 41 unidades",
+                "[20/03 13:11] 🚀 Tecnologia Espacial → Nível 5 pelo ADM"
+            ],
+            "tecnologias": {
+                "militar": 0,
+                "industrial": 0,
+                "economico": 0,
+                "espacial": 5,
+                "espionagem": 0
+            },
+            "planetas_data": {
+                "MEUkACET": {
+                    "nivel": "capital",
+                    "tipo": "comercial",
+                    "recurso": null
+                }
+            },
+            "historico_guerras": [],
+            "aliancas": [],
+            "vassalos": [],
+            "cacas": 0,
+            "destroyers": 0,
+            "tanques": 0,
+            "fragatas": 0,
+            "cruzadores": 0,
+            "interceptores": 0,
+            "bombardeiros": 0,
+            "corvetas": 0
+        },
+        "474597599907676167": {
+            "nome": "Meupênis",
+            "pib": 36000000,
+            "minerios": 5010,
+            "populacao_total": 20000000,
+            "recrutas": 0,
+            "brasao": "https://www.google.com/search?q=bras%C3%A3o&oq=bras%C3%A7%C3%A3o&gs_lcrp=EgZjaHJvbWUqDwgBEAAYDRixAxjJAxiABDIGCAAQRRg5Mg8IARAAGA0YsQMYyQMYgAQyFQgCEC4YDRivARjHARi6AhiSAxiABDIJCAMQABgNGIAEMg8IBBAuGA0YrwEYxwEYgAQyCQgFEAAYDRiABDISCAYQLhgNGK8BGMcBGLoCGIAEMgkIBxAAGA0YgAQyDwgIEC4YDRiDARixAxiABDIJCAkQABgNGIAEMgkIChAAGA0YgAQyCQgLEAAYDRiABDIJCAwQABgNGIAEMgkIDRAAGA0YgAQyCQgOEAAYDRiABNIBCDg1ODJqMGo3qAIUsAIB8QV_yWLWu15bLPEFf8li1rteWyw&client=ms-android-motorola-rvo3&sourceid=chrome-mobile&ie=UTF-8#sv=CAMSahoyKhBlLXZ6bG1mSzdTYVNvZnZNMg52emxtZks3U2FTb2Z2TToOTF9XMzJLSUI4dXJKeE0gBCowChpfS002N2FjZXpET0RkNU9VUHNMLXBJUV81ORIQZS12emxtZks3U2FTb2Z2TRgAMAEYByCnqOLTATABSggQAhgBIAIoAQ",
+            "descricao": "",
+            "cor": "6B21A8",
+            "fabricas": {
+                "fabrica_pequena": 0,
+                "fabrica_media": 0,
+                "fabrica_grande": 0,
+                "fabrica_continental": 0,
+                "mundo_forja": 0
+            },
+            "projetos": {},
+            "planetas": [
+                "Cuzim de yan"
+            ],
+            "sistemas": [],
+            "historico": [],
+            "tecnologias": {
+                "militar": 0,
+                "industrial": 0,
+                "economico": 0,
+                "espacial": 0,
+                "espionagem": 0
+            },
+            "planetas_data": {
+                "Cuzim de yan": {
+                    "nivel": "capital",
+                    "tipo": "comercial",
+                    "recurso": null
+                }
+            },
+            "historico_guerras": [],
+            "aliancas": [],
+            "vassalos": [],
+            "cacas": 0,
+            "destroyers": 0,
+            "tanques": 0,
+            "fragatas": 0,
+            "cruzadores": 0,
+            "interceptores": 0,
+            "bombardeiros": 0,
+            "corvetas": 0
+        }
+    },
+    "cofre_servidor": {
+        "pib": 0,
+        "minerios": 0
+    }
+}

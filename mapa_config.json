@@ -1,0 +1,31 @@
+{
+    "fundo_url": "https://cdn.discordapp.com/attachments/1477485055424336107/1482902240954945627/ChatGPT_Image_11_de_mar._de_2026_11_05_18.png?ex=69b8a3d5&is=69b75255&hm=a41d5b774928c0d333bc9c39be34a97ddaf04a2c7db75b55036f9dd45ec57453&",
+    "territorios": {
+        "Moskou": {
+            "x": 2500,
+            "y": 1933,
+            "raio": 30,
+            "celula": "M15"
+        },
+        "moskou1": {
+            "x": 900,
+            "y": 1533,
+            "raio": 30,
+            "celula": "E12"
+        },
+        "MEUkACET": {
+            "x": 1100,
+            "y": 200,
+            "raio": 30,
+            "celula": "F2"
+        },
+        "Cuzim de yan": {
+            "x": 900,
+            "y": 1400,
+            "raio": 30,
+            "celula": "E11"
+        }
+    },
+    "msg_id": 1484135419015725177,
+    "canal_id": 1481292144319660122
+}
